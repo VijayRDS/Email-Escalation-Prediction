@@ -241,4 +241,4 @@ yarn-error.log*
 *.jar  
 *.rar  
 *.tar  
-*.zip  
+*.zip  "data/*.mbox\nmodels/*.pkl\n*.log\n__pycache__/" 
