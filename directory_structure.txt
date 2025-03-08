@@ -1,0 +1,18 @@
+├───dashboard
+│   ├───E-mail_Analysis
+│   └───Escalation_Dashboard
+├───data
+│   ├───processed_emails
+│   └───raw_emails
+├───docs
+├───models
+│   └───escalation_model
+├───notebooks
+│   ├───01_data_preprocessing
+│   └───02_model_training
+├───reports
+│   └───summary_report
+└───src
+    ├───predict
+    ├───preprocess_data
+    └───train_model
