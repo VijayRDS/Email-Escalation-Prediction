@@ -169,3 +169,76 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Python-related  
+*.pyc  
+*.pyo  
+__pycache__/  
+.Python  
+env/  
+venv/  
+ENV/  
+*.egg-info/  
+dist/  
+build/  
+sdist/  
+
+# Data and Model Files (Important!)  
+*.csv  
+*.model  
+*.pkl  
+*.data  
+data/  
+models/  
+.DS_Store  
+
+# Tableau related  
+*.twb  
+*.twbx  
+LocalSettings.tds  
+Workbooks/  
+
+# OS or Editor related  
+.DS_Store        # Mac OS  
+Thumbs.db       # Windows image index  
+*.swp           # Vim swap files  
+*.swo           # Vim swap files  
+.vscode/         # VS Code  
+.idea/           # IntelliJ IDEA  
+*.orig          # Backups  
+*~              # Backups  
+*.log  
+
+# General ignore  
+# Logs  
+*.log  
+logs/  
+
+# Temp files  
+*.tmp  
+temp/  
+tmp/  
+
+# Secrets and Keys (VERY IMPORTANT!)  
+*.key  
+*.pem  
+credentials.json  
+config.ini  
+secrets.ini  
+api_keys.txt  
+
+# Node.js (if applicable)  
+node_modules/  
+npm-debug.log*  
+yarn-debug.log*  
+yarn-error.log*  
+
+# Packages  
+*.7z  
+*.dmg  
+*.exe  
+*.gz  
+*.iso  
+*.jar  
+*.rar  
+*.tar  
+*.zip  
