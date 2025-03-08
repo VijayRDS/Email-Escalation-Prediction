@@ -1,0 +1,46 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Machine Learning
+xgboost
+lightgbm
+
+# Natural Language Processing (NLP)
+nltk
+spacy
+transformers
+
+# Email Processing
+mailparser
+email
+imapclient
+
+# Jupyter Notebooks
+jupyter
+notebook
+
+# API (if using Flask/FastAPI)
+flask
+fastapi
+uvicorn
+
+# Dashboard (if using Python for visualization)
+dash
+plotly
+streamlit
+
+# Database (if needed)
+sqlalchemy
+sqlite3
+
+# Model Saving & Loading
+joblib
+pickle-mixin
+
+# Miscellaneous
+tqdm
+requests
