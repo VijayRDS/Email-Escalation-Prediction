@@ -86,6 +86,4 @@ Apache License 2.0. See `LICENSE` for more details.
 ## 📞 Contact
 👤 **Vijay Rastogi**  
 📧 vijayrastogi2828@gmail.com  
-🔗 [LinkedIn]((https://www.linkedin.com/in/vijay-rastogi28021995/))  
-
-
+🔗 https://www.linkedin.com/in/vijay-rastogi28021995/
